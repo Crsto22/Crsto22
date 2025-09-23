@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Cristhofer Leonardo
 
 <div align="center">
   
@@ -6,37 +6,14 @@
   
 </div>
 
-## 🚀 Sobre mí
-
-```javascript
-const developer = {
-    name: "Tu Nombre",
-    role: "Full Stack Developer",
-    location: "🌎 Tu Ubicación",
-    languages: ["JavaScript", "Python", "TypeScript"],
-    technologies: {
-        frontend: ["React", "Vue.js", "Next.js"],
-        backend: ["Node.js", "Express", "Django"],
-        database: ["MongoDB", "PostgreSQL", "Redis"],
-        tools: ["Docker", "AWS", "Git"]
-    },
-    currentFocus: "🔥 Creando experiencias digitales increíbles",
-    funFact: "☕ El código funciona mejor con café"
-};
-```
-
-<div align="center">
-
 ## 🛠️ Mi Stack Tecnológico
 
 ### 💻 Frontend
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,astro,vue,html,js,css,tailwind" />
+  </a>
+</p>
 ### 🔧 Backend
 <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
